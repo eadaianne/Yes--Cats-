@@ -15,6 +15,7 @@
 }
 
 #card-one-index{
+    margin-top: 50px;
     width: 50%;
     z-index: -1;
     margin-left: 50%;
@@ -22,16 +23,21 @@
 }
 
 #imgCardTwoIndex{
-    height: auto;
-    width:auto;
+    height: 424px;
+    width: 353px;
 }
 
 #card-two-index{
-    margin-left: 20%;
-    margin-right: 20%;
+    margin-left: 15%;
+    margin-right: 15%;
     margin-top: 50px;
     background-color: darkslategrey;
     color: white;
+    z-index: -1;
+}
+
+.navbar{
+    position: fixed;
 }
 
 .nav-link{
