@@ -42,16 +42,36 @@ body {
     z-index: -1;
 }
 
-.imgCarousel{
+.imgCarouselOne{
     height: 650px;
     width: 650px;
 }
 
-.carousel{
+.carouselOne{
     margin-top: 5%;
     margin-left: 30%;
     height: 650px;
     width: 650px;
+    margin-bottom: 100px;
+}
+
+.dp1{
+    background-color: darkgrey;
+    color: white;
+}
+
+.dp2{
+    background-color: dimgrey;
+    color: aliceblue;
+}
+
+.imgCarouselTwo{
+    height: 345px;
+    width: 350px;
+}
+
+.cards_depoimento{
+    border: 0px;
 }
 
 #row-card{
