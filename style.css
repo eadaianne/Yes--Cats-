@@ -108,9 +108,33 @@ body {
     text-decoration: none;
 }
 
-.container{
-    border-color: black;
+.gatos{
+    width: 950px;
+    margin-left: 20%;
+}
 
+#gatos101{
+    margin-top: 35px;
+    padding-top: 15px;
+    background-color: lightcoral;
+    color:white;
+}
+
+#gatoSeis{
+    height: 376px;
+}
+
+#gatoSete{
+    width: 511px;
+    height: 183px;
+}
+
+#gatoOito{
+    height: 424px;
+}
+
+#gatos102{
+    background-color:indianred;
 }
 
 .cardUm{
