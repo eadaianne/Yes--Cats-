@@ -113,6 +113,33 @@ body {
     margin-left: 20%;
 }
 
+.parceiro {
+    margin-top: 50px;
+    background-color:palevioletred;
+    color: white;
+    margin-left: 25%;
+}
+
+.ajuda{
+    background-color:palevioletred;
+    margin: 10% 25%;
+    width: 700px;
+    color:white;
+}
+
+#a{
+    background-color: thistle;
+}
+
+
+#b{
+    background-color: violet;
+}
+
+h6 {
+    color: black;
+}
+
 #gatos101{
     margin-top: 35px;
     padding-top: 15px;
